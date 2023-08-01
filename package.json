@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "backgroundterminal.helloWorld",
-        "title": "Hello World"
+        "command": "backgroundterminal.createBackgroundTerminal",
+        "title": "Create Background Terminal"
       }
     ]
   },
